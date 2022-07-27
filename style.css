@@ -1,0 +1,32 @@
+input[type="text"]{
+    width: 250px;
+
+}
+input[type="submit"],input[type="reset"]{
+    width: 100px;
+    height: 30px;
+
+}
+form{
+    border: 1px solid rgb(216, 18, 200);
+    width: 450px;
+    margin: 20px auto;
+    text-align: center;
+    background-color: rgb(16, 53, 172);
+}
+td{
+    padding: 10px;
+}
+td:first-child{
+    text-align: right;
+    font-weight: bold;
+}
+td:last-child{
+    text-align: left;
+    
+}
+body{
+    background-color:rgb(0, 255, 72);
+}
+
+
